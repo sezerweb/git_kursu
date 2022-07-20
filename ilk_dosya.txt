@@ -1,4 +1,8 @@
 ilk satır
 ikinci satır.
+<<<<<<< HEAD
 üçüncü dosya
 dördüncü satır
+=======
+üçüncü satır
+>>>>>>> feat
