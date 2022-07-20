@@ -1,1 +1,2 @@
 feat dosyaıs
+masterdan değişim
